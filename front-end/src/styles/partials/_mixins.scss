@@ -1,0 +1,13 @@
+// ---Adaptive Design Controls---
+
+@mixin tablet-adapt {
+    @media screen and (min-width: $tablet-breakpoint) {
+        @content;
+    }
+}
+
+@mixin desktop-adapt {
+    @media screen and (min-width: $desktop-breakpoint) {
+        @content;
+    }
+}

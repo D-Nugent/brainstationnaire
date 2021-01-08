@@ -1,0 +1,15 @@
+@import './partials/variables';
+@import './partials/mixins';
+
+// ---Global Reset 
+
+html, body, ul {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;     
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }

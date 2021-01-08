@@ -6,10 +6,9 @@
 - Media
 
 1. Create Folder Framework
-- front-end
-- back-end
-2. Create Shared Repo
-
+- front-end *
+- back-end *
+2. Create Shared Repo*
 2b. Determine website flow
 
 3. Determine for SPA - what components we need

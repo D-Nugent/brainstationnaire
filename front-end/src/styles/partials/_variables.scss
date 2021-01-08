@@ -1,0 +1,21 @@
+// ---Font Colors---
+$text-primary-color: #323232; //Used as default font color
+$text-offset-color: #FFFFFF; //Used as font color for hero header
+$text-label-color: #AFAFAF; //Used as font color for field entry labels
+$text-highlight-color: #0095FF; //Used as a font color for the secondary cta text color
+$text-highlight-offset-color: #0065AD; //Used as a font color for the secondary cta text color hover state
+
+// ---Layout Colors---
+$layout-primary-color: #323232; // Used for Header and Footer background color
+$layout-secondary-color: #AFAFAF; //Used as the primary backgound color for body
+$layout-offset-color: #FFFFFF; //Used as the primary backgound color for body
+$layout-highlight-color: #0095FF; //Used as a font color for the secondary cta text color
+$layout-highlight-color-trans: rgba(0, 149, 255, 0.4); //Used as a font color for the secondary cta text color
+$layout-highlight-offset-color: #0065AD; //Used as a font color for the secondary cta text color hover state
+
+
+// ---Breakpoints---
+$large-mobile-breakpoint: 425px; /*Used to provide a breakpoint value for larble mobile or small 
+tablet screens. Mostly for responsive design between breakpoints to ensure visual effectiveness */
+$tablet-breakpoint: 768px; //Used to provide a breakpoint value for tablet screens (height: 1024px)
+$desktop-breakpoint: 1200px; //Used to provide a breakpoint value for desktop screens (height: 800px)

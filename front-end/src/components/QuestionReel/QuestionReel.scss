@@ -1,0 +1,52 @@
+@import '../../styles/global';
+
+.reel{
+    &__header{
+        color: $text-highlight-color;
+        letter-spacing: .4rem;
+    }
+    &__question{
+        color: $text-offset-color;
+    }
+    &__answers{
+        display: flex;
+        flex-wrap: wrap;
+
+        &-container{
+            background-color: $layout-highlight-color-trans;
+            width: 48%;
+            height: 100px;
+            margin: 8px;
+            border: 2px solid $layout-highlight-offset-color;
+            border-radius: 15px;
+            box-shadow: 8px 8px 8px black;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            &-text{
+                font-size: 1.2rem;
+                text-transform: uppercase;
+                color: $text-offset-color;
+
+                &--offset{
+                    color: $text-highlight-color;
+                }
+            }
+
+            &:hover{
+                cursor: pointer;
+                background-color: $layout-offset-color;
+                border: 2px solid $layout-highlight-offset-color;
+                transform: translateY(-8px);
+                box-shadow: 12px 16px 16px black;
+
+                & .reel__answers-container-text{
+                    color: $text-highlight-color;
+                }
+            }
+
+        }
+    }
+
+}
