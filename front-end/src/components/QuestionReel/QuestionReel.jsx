@@ -1,7 +1,7 @@
 import React from 'react';
 import './QuestionReel.scss';
 import QuestionPrizeScale from '../QuestionPrizeScale/QuestionPrizeScale';
-import jonIronMan from '../../assets/images/jon-ironMan-test-FINAL.gif'
+import jonIronMan from '../../assets/images/jon-ironMan.gif'
 
 function QuestionReel() {
     return (
