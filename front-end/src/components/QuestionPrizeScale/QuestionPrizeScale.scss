@@ -28,6 +28,8 @@
             color: $text-highlight-color;
         }
 
+        & h4:nth-child()
+
         &-item {
             margin: 12px;
             letter-spacing: .1rem;

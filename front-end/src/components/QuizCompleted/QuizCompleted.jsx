@@ -1,11 +1,12 @@
-import React from 'react'
+import React from 'react';
+import './QuizCompleted.scss';
 
-function QuizLaunch() {
+function QuizCompleted() {
     return (
-        <div>
-            <p>Quiz Completed</p>
+        <div className="launch">
+            <h2 className="launch__header">Congratulations! You are a BrainStationnaire!</h2>
         </div>
     )
 }
 
-export default QuizLaunch
+export default QuizCompleted

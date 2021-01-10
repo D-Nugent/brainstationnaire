@@ -2,6 +2,7 @@ import React from 'react';
 import './QuestionPrizeScale.scss';
 
 function QuestionPrizeScale() {
+    
     return (
         <div className="scale">
             <h4 className="scale__heading">CURRENT WINNINGS</h4>
@@ -18,7 +19,7 @@ function QuestionPrizeScale() {
                 <h4 className="scale__questions-item">6 $2,000</h4>
                 <h4 className="scale__questions-item">5 $1,000</h4>
                 <h4 className="scale__questions-item">4 $500</h4>
-                <h4 className="scale__questions-item --active-question">3 $300</h4>
+                <h4 className="scale__questions-item">3 $300</h4>
                 <h4 className="scale__questions-item">2 $200</h4>
                 <h4 className="scale__questions-item">1 $100</h4>
             </div>

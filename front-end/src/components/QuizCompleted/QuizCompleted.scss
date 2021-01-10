@@ -1,0 +1,44 @@
+@import '../../styles/global';
+
+.launch{
+    &__header{
+        color: $text-highlight-color;
+    }
+    &__message{
+        color: $text-offset-color;
+
+        &-emph{
+            font-size: 1.6rem;
+            font-weight: 600;
+        }
+    }
+    &__form{
+        display: flex;
+        flex-direction: column;
+
+        &-instructions{
+            margin-bottom: 24px;
+            color: $text-offset-color;
+
+        }
+        &-dropdown{
+        width: fit-content;
+        height: 24px;
+        }
+
+        &-submit{
+            align-self: flex-end;
+            width: 240px;
+            height: 48px;
+            background-color: $layout-highlight-color;
+            color: $text-offset-color;
+            font-weight: 600;
+            border-radius: 8px;
+
+            &:hover {
+                cursor: pointer;
+                background-color: $layout-highlight-offset-color;
+            }
+        }
+    }
+}

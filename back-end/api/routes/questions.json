@@ -1,0 +1,285 @@
+[
+    {
+        "question": "What do we call external values that are passed into a component?",
+        "answers": [
+            {
+                "answer": "props",
+                "correct": "true"
+            },
+            {
+                "answer": "parameters",
+                "correct": "false"
+            },
+            {
+                "answer": "state",
+                "correct": "false"
+            },
+            {
+                "answer": "argument",
+                "correct": "false"
+            }
+        ]
+    },
+    {
+        "question": "What are some critical symptoms of COVID-19 to be aware of?",
+        "answers": [
+            {
+                "answer": "Difficulty breathing, chest pain or pressure",
+                "correct": "true"
+            },
+            {
+                "answer": "mild sweating",
+                "correct": "false"
+            },
+            {
+                "answer": "hangover",
+                "correct": "false"
+            },
+            {
+                "answer": "cold, cough and headache",
+                "correct": "false"
+            }
+        ]
+    },
+    {
+        "question": "What is the incubation period of the coronavirus disease?",
+        "answers": [
+            {
+                "answer": "14 days",
+                "correct": "true"
+            },
+            {
+                "answer": "4 weeks",
+                "correct": "false"
+            },
+            {
+                "answer": "6 months",
+                "correct": "false"
+            },
+            {
+                "answer": "1 year",
+                "correct": "false"
+            }
+        ]
+    },
+    {
+        "question": "Does heat prevent COVID-19?",
+        "answers": [
+            {
+                "answer": "No",
+                "correct": "true"
+            },
+            {
+                "answer": "Maybe",
+                "correct": "false"
+            },
+            {
+                "answer": "Sometimes",
+                "correct": "false"
+            },
+            {
+                "answer": "yes",
+                "correct": "false"
+            }
+        ]
+    },
+    {
+        "question": "Which insect shorted out an early supercomputer and inspired the term 'computer bug'?",
+        "answers": [
+            {
+                "answer": "Moth",
+                "correct": "true"
+            },
+            {
+                "answer": "Roach",
+                "correct": "false"
+            },
+            {
+                "answer": "Fly",
+                "correct": "false"
+            },
+            {
+                "answer": "Japanese Beetle",
+                "correct": "false"
+            }
+        ]
+    },
+   
+    {
+        "question": "What is the fundamental purpose of a component?",
+        "answers": [
+            {
+                "answer": "To render a part of the UI",
+                "correct": "true"
+            },
+            {
+                "answer": "To handle input from the user",
+                "correct": "false"
+            },
+            {
+                "answer": "Recieve props and output them for the user",
+                "correct": "false"
+            },
+            {
+                "answer": "To change state",
+                "correct": "false"
+            }
+        ]
+    },
+    {
+        "question": "How do you notify React when we want to change the state object?",
+        "answers": [
+            {
+                "answer": "this.setState()",
+                "correct": "true"
+            },
+            {
+                "answer": "this.stateSet()",
+                "correct": "false"
+            },
+            {
+                "answer": "this.state.counter=1",
+                "correct": "false"
+            },
+            {
+                "answer": "changeState()",
+                "correct": "false"
+            }
+        ]
+    },
+    {
+        "question": "Which day is Earth Day?",
+        "answers": [
+            {
+                "answer": "April 22",
+                "correct": "true"
+            },
+            {
+                "answer": "December 21",
+                "correct": "false"
+            },
+            {
+                "answer": "August 12",
+                "correct": "false"
+            },
+            {
+                "answer": "October 31",
+                "correct": "false"
+            }
+        ]
+    },
+    {
+        "question": "Which of these countries have NOT vowed to use only 100% renewable energy by 2050?",
+        "answers": [
+            {
+                "answer": "Canada",
+                "correct": "true"
+            },
+            {
+                "answer": "Vietnam",
+                "correct": "false"
+            },
+            {
+                "answer": "Guatemala",
+                "correct": "false"
+            },
+            {
+                "answer": "Afghanistan",
+                "correct": "false"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is not considered to be a source of renewable energy?",
+        "answers": [
+            {
+                "answer": "Natural Gas",
+                "correct": "true"
+            },
+            {
+                "answer": "Wind",
+                "correct": "false"
+            },
+            {
+                "answer": "Hydro-power",
+                "correct": "false"
+            },
+            {
+                "answer": "Solar",
+                "correct": "false"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a problem caused by deforestation?",
+        "answers": [
+            {
+                "answer": "These are all problems caused by deforestation",
+                "correct": "true"
+            },
+            {
+                "answer": "Loss of biodiversity",
+                "correct": "false"
+            },
+            {
+                "answer": "Hurting the economy",
+                "correct": "false"
+            },
+            {
+                "answer": "The harming of many indigenous peoples",
+                "correct": "false"
+            }
+        ]
+    },
+    {
+        "question": "What is known as the “Sixth Extinction”?",
+        "answers": [
+            {
+                "answer": "The current period of time where species are disappearing at an extreme rate",
+                "correct": "true"
+            },
+            {
+                "answer": "The Sequel to the movie The Fifth Element",
+                "correct": "false"
+            },
+            {
+                "answer": "The sixth species that became extinct",
+                "correct": "false"
+            },
+            {
+                "answer": "The fact that there are six major species in the world today that are facing the threat of extinction",
+                "correct": "false"
+            }
+        ]
+    },
+    {
+        "question": "The founder of the captcha, Luis von Ahn also co-founded a popular app, what is it?",
+        "answers": [
+            {
+                "answer": "DuoLingo",
+                "correct": "true"
+            },
+            {
+                "answer": "Tinder",
+                "correct": "false"
+            },
+            {
+                "answer": "Shazam",
+                "correct": "false"
+            },
+            {
+                "answer": "Evernote",
+                "correct": "false"
+            }
+        ]
+    }
+]
+ 
+ 
+
+
+
+
+
+
+
